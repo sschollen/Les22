@@ -1,0 +1,14 @@
+input[type="text"], input[type="email"], textarea, button{
+    display: block;
+    margin: 15px 0px;
+    width: 800px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    }
+    h2{
+      margin-right: 500px;
+    }
+
+.navbar {
+background-color: #e5ff00;
+}
